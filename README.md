@@ -1,4 +1,4 @@
-# eleclab_touch_screen_RP4
+# Tested on Raspberry Pi 4 using 32-bit Bullseye
 ElecLabs touchscreen setup
 
 # Primary addition to config.txt
